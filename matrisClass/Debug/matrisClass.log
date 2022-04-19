@@ -1,0 +1,3 @@
+﻿  matrisClass.cpp
+D:\opp_projeler\matrisClass\matrish.h(139,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  matrisClass.vcxproj -> D:\opp_projeler\matrisClass\Debug\matrisClass.exe

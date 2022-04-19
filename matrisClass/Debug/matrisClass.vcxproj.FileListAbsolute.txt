@@ -1,0 +1,2 @@
+D:\opp_projeler\matrisClass\Debug\matrisClass.exe
+D:\opp_projeler\matrisClass\Debug\matrisClass.pdb
